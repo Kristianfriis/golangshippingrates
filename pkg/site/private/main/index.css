@@ -1,0 +1,25 @@
+.colliNumber{
+    font-size: 1.5em;
+    line-height: 1.6;
+}
+
+.action_hover {
+    font-size: 1.5em;
+    line-height: 1.6;
+}
+
+.action_hover:hover{
+    cursor: pointer;
+    color: darkgreen;
+}
+
+.actionDelete_hover {
+    font-size: 1.5em;
+    line-height: 1.6;
+}
+
+.actionDelete_hover:hover{
+    cursor: pointer;
+    color:maroon;
+}
+
